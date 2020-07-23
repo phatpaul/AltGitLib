@@ -1,0 +1,34 @@
+Part Number	Library Ref	Library Path	Comment	Component Kind	Component Type	PACKAGE	Pin Count	Footprint Path	Footprint Ref	Description	Material	Tolerance	Value	VOLTAGE	CURRENT	WATTAGE	Manufacturer 1	Manufacturer Part Number 1	Supplier 1	Supplier Part Number 1	Manufacturer 2	Manufacturer Part Number 2	Supplier 2	Supplier Part Number 2	Footprint Ref 2	Footprint Path 2
+BATT_AAA	M_BATT_AAA		Alkaline AAA Battery Cell	Mechanical	Mechanical					Alkaline AAA Battery Cell							Energizer	EN92	Digi-Key	N146-ND	Panasonic	LR03XWA/B	Digi-Key	P645-ND		
+BATT_HOLDER_2AAA_leaded	M_BATT_HOLDER_2AAA_leaded		"Battery Holder 2xAAA 6"" leads"	Mechanical	Mechanical		2			"Battery Holder 2xAAA 6"" leads"							Eagle Plastic Devices	122-0421-GR	Mouser	122-0421-GR						
+BOX_ABS_BLK_1593KBK	M_BOX		"BOX ABS BLACK 2.65""L X 2.61""W"	Mechanical	Mechanical					"BOX ABS BLACK 2.65""L X 2.61""W"							Hammond	1593KBK	Digi-Key	HM355-ND						
+BOX_ABS_BLK_1593TBK	M_BOX		"Box ABS Black 4.41""L x 2.62""W x 0.83""H"	Mechanical	Mechanical					"Box ABS Black 4.41""L x 2.62""W x 0.83""H"							Hammond	1593TBK	Digi-Key	HM372-ND						
+BOX_ABS_BLK_1593QBK	M_BOX		"Box ABS Black 4.41""L x 2.62""W x 1.10""H"	Mechanical	Mechanical					"Box ABS Black 4.41""L x 2.62""W x 1.10""H"							Hammond	1593QBK	Digi-Key	HM359-ND						
+SCREW_TERM_RA_3MM	M_BOX		Screw Terminal 3mm RA Keystone 7760	Mechanical	Mechanical				M_SCREW_TERM_Keystone_7760	Screw Terminal 3mm RA Keystone 7760							Keystone	7760	Digi-Key	36-7760-ND	Dinkle	P-810 161026				
+M_CLIP_C_10x8x3.5	M_CON1_CLIP		Cable Clip	Standard	Standard				M_CLIP_C_10x8x3.5	CBL CLIP C-TYPE SILVER SOLDER							Harwin Inc.	S8131-46R	Digi-Key	952-1579-6-ND						
+CONN_BANANA_JACK_PANEL_BLK	M_CON1_BANANA_JACK		"Banana Jack, Panel Mount, Black"	Mechanical	Mechanical					"Banana Jack, Panel Mount, Black"							Emerson	108-0903-001	Digi-Key	J152-ND						
+CONN_BANANA_JACK_PANEL_RED	M_CON1_BANANA_JACK		"Banana Jack, Panel Mount, Red"	Mechanical	Mechanical					"Banana Jack, Panel Mount, Red"							Emerson	108-0902-001	Digi-Key	J151-ND						
+CONN_DIN_4-PANEL	M_CON4-DIN-PANEL		CONN DIN 4-POS Panel Mount	Mechanical	Mechanical					CONN DIN 4-POS Panel Mount							CUI	SD-40SN	Digi-Key	CP-1240-ND						
+CONN_DIN_8-PANEL	M_CON8-DIN-PANEL		CONN DIN 8-POS Panel Mount	Mechanical	Mechanical					CONN DIN 8-POS Panel Mount							CUI	SD-80SN	Digi-Key	CP-1280-ND						
+CONN_POL_PLUG_Mini-PV	M_CON_POLARIZING_PLUG		Polarizing Plug for Mini-PV	Mechanical	Mechanical					Polarizing Plug for Mini-PV							Amphenol FCI	65307-001LF	Digi-Key	609-2378-ND						
+CONN_RCPT_HSNG_2POS_JST_PH	M_CON2_HSNG		CONN HOUSING PH 2POS 2MM WHITE	Mechanical	Mechanical					CONN HOUSING PH 2POS 2MM WHITE							JST	PHR-2	Digi-Key	455-1165-ND						
+CONN_RCPT_HSNG_2POS_JST_VH	M_CON2_HSNG		CONN HOUSING PH 2POS 3.96MM WHITE	Mechanical	Mechanical					CONN HOUSING PH 2POS 3.96MM WHITE							JST	VHR-2N	Digi-Key	455-1183-ND						
+CONN_RCPT_HSNG_2POS_CST-100-II	M_CON2_HSNG		CONN RCPT HSNG 2POS CST-100 II	Mechanical	Mechanical					CONN RCPT HSNG 2POS CST-100 II							TE	1375820-2	Digi-Key	A99613-ND						
+CONN_RCPT_HSNG_2x5POS_2.54MM_Mini-PV	M_CON2x5_HSNG		CONN RCPT HSNG 2x5POS 2.54mm	Mechanical	Mechanical					CONN RCPT HSNG 2x5POS 2.54mm Mini-PV							Amphenol FCI	65043-032LF	Digi-Key	609-2374-ND						
+CONN_RCPT_HSNG_1x4POS_2.54MM_KK	M_CON1x4_HSNG		CONN RCPT HSNG 1x4POS 2.54mm	Mechanical	Mechanical					CONN RCPT HSNG 1x4POS 2.54mm KK series							Molex	22013047	Digi-Key	WM2002-ND						
+CONN_SOCKET_22-26AWG_TIN_CST-100-II	M_CON1_PIN		CONN SOCKET 22-26AWG TIN CRIMP	Mechanical	Mechanical					CONN SOCKET 22-26AWG TIN CRIMP CST-100-II							TE	1375819-1	Digi-Key	A100453CT-ND						
+CONN_SOCKET_22-30AWG_TIN_KK2759	M_CON1_PIN		CONN SOCKET 22-30AWG TIN CRIMP	Mechanical	Mechanical					CONN SOCKET 22-30AWG TIN CRIMP KK2759							MOLEX	8500114	Digi-Key	WM1114-ND						
+CONN_SOCKET_22-26AWG_TIN_Mini-PV	M_CON1_PIN		CONN SOCKET 22-26AWG TIN CRIMP	Mechanical	Mechanical					CONN SOCKET 22-26AWG TIN CRIMP Mini-PV							Amphenol FCI	47750-000LF	Digi-Key	609-2849-ND						
+CONN_SOCKET_24-30AWG_TIN_JST_SPH	M_CON1_PIN		CONN TERM CRIMP JST PH 24-30AWG	Mechanical	Mechanical					CONN TERM CRIMP JST PH 24-30AWG							JST	SPH-002T-P0.5S	Digi-Key	455-1127-1-ND						
+CONN_SOCKET_16-20AWG_TIN_JST_SVH	M_CON1_PIN		CONN TERM CRIMP JST VH 16-20AWG TIN	Mechanical	Mechanical					CONN TERM CRIMP JST VH 16-20AWG TIN							JST	SVH-41T-P1.1	Digi-Key	455-1319-1-ND						
+CONN_SHUNT_5x2_2.54mm	M_CON5x2_SHUNT		CONN TERM CRIMP JST PH 24-30AWG	Mechanical	Mechanical				CON5x2_SHUNT_2.54mm	10 (2 x 5) Position Shunt							Samtec	MNT-105-BK-G	Digi-Key	SAM8950-ND						
+FAN_40x15MM	M_FAN		"FAN, 40mm x 15mm Axial 13.5VDC"	Mechanical	Mechanical					"FAN, 40mmx15mm Axial 13.5VDC 0.6A 7300RPM"								4015-13.5V-0.6A-7300RPM		4015-13.5V-0.6A-7300RPM						
+HEATSINK_DPAK-1	M_HEATSINK_DPAK-1		Heatsink Aluminum DPAK	Mechanical	Mechanical	DPAK	2			Heatsink Aluminum DPAK							Assman	V-1100-SMD/B-L	Digi-Key	AE10775-ND						
+SCREW_n4x0.25in	M_SCREW		"Screw, #4 x 1/4"" self-tapping (6.4mm )"	Mechanical	Mechanical					"Screw, #4 x 1/4"" self-tapping (6.4mm )"							Hammond	1593ATS100	Digi-Key	HM1441-ND						
+WIRE_18AWG_BLK_9.5inch	M_WIRE		"9.5"" 18AWG Black Stranded Wire"							"9.5"" 18AWG Black Stranded Wire"																
+WIRE_18AWG_RED_9.5inch	M_WIRE		"9.5"" 18AWG Red Stranded Wire"							"9.5"" 18AWG Red Stranded Wire"																
+WIRE_18AWG_BLK_15inch	M_WIRE		"15"" 18AWG Black Stranded Wire"							"15"" 18AWG Black Stranded Wire"																
+WIRE_18AWG_RED_15inch	M_WIRE		"15"" 18AWG Red Stranded Wire"							"15"" 18AWG Red Stranded Wire"																
+WIRE_18AWG_BLK_20.5inch	M_WIRE		"20.5"" 18AWG Black Stranded Wire"							"20.5"" 18AWG Black Stranded Wire"																
+WIRE_18AWG_RED_20.5inch	M_WIRE		"20.5"" 18AWG Red Stranded Wire"							"20.5"" 18AWG Red Stranded Wire"																
+M_Omega2_Module	M_PCB_ASSY		Omega2 Computer Module	Mechanical	Mechanical		36		M_Omega2p_Module	ONION OMEGA2 IOT COMPUTER							SparkFun Electronics	DEV-14432	Digi-Key	1568-1770-ND						

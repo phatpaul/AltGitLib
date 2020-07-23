@@ -1,0 +1,11 @@
+Part Number	Library Ref	Library Path	Comment	Component Kind	Component Type	PACKAGE	Pin Count	Footprint Path	Footprint Ref	Description	Material	Tolerance	Value	VOLTAGE	CURRENT	WATTAGE	Manufacturer 1	Manufacturer Part Number 1	Supplier 1	Supplier Part Number 1	Manufacturer 2	Manufacturer Part Number 2	Supplier 2	Supplier Part Number 2	Footprint Ref 2	Footprint Path 2
+Y_32.768kHz_12.5pF_20ppm_SMD-3Can	Y_3pin-gnd3		32.768kHz 12.5pF 20ppm	Standard	Standard	SMD Can	3		SM_XTAL_3P-CAN	Crystal 32.768kHz 12.5pF 20ppm			32.768kHz				Abracon LLC	AB26TRQ-32.768KHZ-T	Digi-Key	535-12051-1-ND						
+Y_32.768KHZ-12.5pF-20ppm_ECS327	Y_FC-12M		32.768kHz 9pF 10ppm	Standard	Standard	2-SMD	2		SM_2-SMD	CRYSTAL 32.768KHZ 12.5PF SMD			32.768kHz				ECS Inc	ECS-.327-12.5-12QS-TR	Digi-Key	XC2285CT-ND						
+Y_32.768kHz_12.5pF_20ppm_SMD-4-SOJ	Y_4pin-gnd23		32.768kHz 12.5pF 20ppm	Standard	Standard	SMD 4-SOJ	4		SM_XTAL_4-SOJ	Crystal 32.768kHz 12.5pF 20ppm			32.768kHz				Abracon LLC	ABS25-32.768KHZ-T	Digi-Key	535-9166-1-ND	ECS Inc.	ECS-.327-12.5-17X-TR	Digi-Key	XC1195CT-ND		
+Y_50MHZ_XO_50PPM_4-SMD(2.5x2mm)	Y_XO_4pin		50MHz 50ppm	Standard	Standard	4-SMD	4		SM_XO_4-SMD(2.5x2mm)	OSC XO 50.000MHZ CMOS SMD		50ppm	50MHz	1.6 V ~ 3.6 V	8mA		ECS Inc.	ECS-2520MV-500-BN-TR	Digi-Key	XC2758CT-ND						
+Y_FA-238V_12.0000MB-K3	Y_FA-238V_12.0000MB-K3		12 MHz	Standard	Standard	4-SMD	4		SM_4-SMD	Crystals			12 MHz				EPSON	FA-238V 12.0000MB-K3	Digi-Key	SER3682TR-ND						
+Y_FC-12M_32.768kHz	Y_FC-12M		FC-12M 32.7680KA-A3	Standard	Standard	2-SMD	2		SM_2-SMD	Crystals			32.768kHz				EPSON	FC-12M 32.7680KA-A3	Digi-Key	SER3672CT-ND	Abracon LLC	ABS06-32.768KHZ-T	Digi-Key	535-10104-1-ND		
+Y_FQ1045A_6MHz	Y_FC-12M		FQ1045A-6.000	Standard	Standard	2-SMD	2		SM_2-SMD_FQ1045A	Crystals			6MHz				Fox Electronics	FQ1045A-6.000	Digi-Key	631-1035-1-ND						
+Y_HC49U-24.000MHZ	Y_FC-12M		HC-49/U-S24000000ABJB	Standard	Standard	2-SMD	2		SM_XTAL_CFM-HCM49-2_V	Crystals			24MHz				Citizen	HC-49/U-S24000000ABJB	Digi-Key	300-6045-ND						
+Y_16MHz_TSX-3552	Y_TSX-3225		16MHz	Standard	Standard	4-SMD	4		SM_4-SMD	CRYSTAL 16.00 MHZ 9PF SMD	MHz Crystal	±10ppm	24MHz				EPSON	TSX-3225 16.0000MF09Z-AC0	Digi-Key	SER4069CT-ND						
+Y_24MHz_TSX-3552	Y_TSX-3225		TSX-3225 24.0000MF20G-AC3	Standard	Standard	4-SMD	4		SM_4-SMD	Crystals			24MHz				EPSON	TSX-3225 24.0000MF20G-AC3	Digi-Key	SER3634CT-ND						

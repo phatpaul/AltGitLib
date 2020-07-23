@@ -1,0 +1,63 @@
+Part Number	Library Ref	Library Path	Comment	Component Kind	Component Type	PACKAGE	Pin Count	Footprint Path	Footprint Ref	Description	Material	Tolerance	Value	VOLTAGE	CURRENT	WATTAGE	Manufacturer 1	Manufacturer Part Number 1	Supplier 1	Supplier Part Number 1	Manufacturer 2	Manufacturer Part Number 2	Supplier 2	Supplier Part Number 2	Footprint Ref 2	Footprint Path 2
+CON1	CON1			Standard (No BOM)	Standard (No BOM)		1																			
+CON1_50milPad	CON1		50mil Pad	Standard	Standard		1		CON1_CastellationPad50mil	50mil diameter pad																
+CON_Atmel_ISP_Lock	CON_Atmel_ISP		ISP Header	Standard	Standard		6		CON2x3_100mil_lock	6 Pin Header Locking							No Populate	No Populate	No Populate	No Populate						
+CON1_70-9296-001-004-006	CON1			Standard	Standard		1		CON1_709296001004006	CONN SSL POKE-IN CONT 12-20AWG	Phosphor Bronze			300V	20A		AVX	7.09296E+14	Digi-Key	478-8665-1-ND						
+CON1_70-9296-001-103-006	CON1			Standard	Standard		1		CON1_70-9296-001-103-006	CONN SSL POKE-IN CONT 18-24AWG	Phosphor Bronze						AVX	70-9296-001-103-006	Digi-Key	478-9347-1-ND						
+CON1_Flex-finger-3mm	CON1			Standard (No BOM)	Standard (No BOM)		1		Flex-finger-3mm	Finger for soldering edge of FPCB to PCB																
+CON1_Flex-pad-0.125	CON1			Standard (No BOM)	Standard (No BOM)		1		Flex-pad-0.125																Flex-pad-0.125-SMT	
+CON1_Flex-pad-0.254	CON1			Standard (No BOM)	Standard (No BOM)		1		Flex-pad-0.254																Flex-pad-0.254-SMT	 
+CON1_Flex-pad-0.300	CON1			Standard (No BOM)	Standard (No BOM)		1		Flex-pad-0.3-SMT																Flex-pad-0.3-SMT	 
+CON1_Flex-Pad-1.28x2.08	CON1			Standard (No BOM)	Standard (No BOM)		1		FlexPad_1.28x2.08																	
+CON1_SMD-pad-3x2mm	CON1			Standard (No BOM)	Standard (No BOM)		1		CON1_3x2mm_SMD_Pad																	
+CON1_Flex-slot-1	CON1			Standard (No BOM)	Standard (No BOM)		1		Flex-slot-1 																	
+CON1_Flex-strap-LiP-weld-6x4	CON1			Standard (No BOM)	Standard (No BOM)		1		Flex-strap-LiP-weld-6x4	Ni Tab for welding LiP cell tabs 6mmx4mm																
+CON1_S125-Large	CON1			Standard (No BOM)	Standard (No BOM)		1		Flex-pad-0.125	"Gold-plated contact, Cylindrical, 0.125"" Dia"							Sincere Friends	S125-Large							Flex-pad-0.125-SMT	
+CON1_4mm_Hole_PTH	CON1			Standard (No BOM)	Standard (No BOM)		1		CON1_4mm_Hole_PTH	Mounting hole																
+CON1_45mil_Hole_20AWG	CON1			Standard (No BOM)	Standard (No BOM)		1		CON1_45mil_Hole_20AWG	Mounting hole																
+CON1_48mil_Hole_PTH	CON1			Standard (No BOM)	Standard (No BOM)		1		CON1_48mil_Hole_PTH	Mounting hole																
+CON1_Batt-Chg-Contact	CON1			Standard	Standard		1		Flex-pad-0.254	"Gold-plated Battery Charger Contact, Cylindrical, 0.1"" Dia"															Flex-pad-0.254-SMT	 
+CON1_SMD_LAPJOINT_18AWG	CON1			Standard	Standard		1		CON1_SMD_LAPJOINT_18AWG	CONN Pad for 18Awg Wire																
+CON1_SMD_LAPJOINT_16AWG	CON1			Standard	Standard		1		CON1_SMD_LAPJOINT_16AWG	CONN Pad for 16Awg Wire																
+CON1_SMD_LAPJOINT_RED_14AWG	CON1			Standard	Standard		1		CON1_TH_PLUS_LAPJOINT_14AWG	"Wire RED 14AWG UL1007 300V PN890142 Cut to 18"""							Lumitec Lighting Part Number:	890060								
+CON1_SMD_LAPJOINT_ORANGE_14AWG	CON1			Standard	Standard		1		CON1_TH_PLUS_LAPJOINT_14AWG	"Wire ORANGE 14AWG UL1007 300V PN890143 Cut to 18"""							Lumitec Lighting Part Number:	890062								
+CON1_SMD_LAPJOINT_BLACK_14AWG	CON1			Standard	Standard		1		CON1_TH_PLUS_LAPJOINT_14AWG	"Wire BLACK 14AWG UL1007 300V PN890140 Cut to 18"""							Lumitec Lighting Part Number:	890061								
+CON1_TH_PLUS_LAPJOINT_16AWG	CON1			Standard	Standard		1		CON1_TH_PLUS_LAPJOINT_16AWG	CONN Pad for 16Awg Wire																
+CON10_100mil_PTH	CON10			Standard	Standard		10		CON10_100mil	"2 * 5 Header 0.1"""							Molex	879141016	Digi-Key	WM8618-ND						
+CON10_50mil_TH_MALE	CON10			Standard	Standard		10		CON10_50mil_lock	10-pin connector.  50mil pitch							Sullins Connector Solutions	GRPB052VWVN-RC	Digi-Key	S9015E-05-ND						
+CON10_50mil_TH_MALE_KEYD	CON10			Standard	Standard		10		CON10_50mil_TH_MALE_KEYD	CONN HEADER VERT 10POS 1.27MM 50mil							Samtec Inc.	FTSH-105-01-F-D-K	Digi-Key	SAM8909-ND						
+CON16_2MM_TH_VERT_FEM	CON16			Standard	Standard		16		CON16_2MM_TH	CONN RCPT 2MM 16POS SGL VERT PCB							Samtec Inc.	MMS-116-01-T-SV	Digi-Key	SAM1234-16-ND						
+CON2_100mil_HEADER_VERT_TIN_MTA	CON2			Standard	Standard		2		CON2_100mil_lock	CONN HEADER VERT 2POS .100 TIN							TE	640456-2	Digi-Key	A1921-ND						
+CON2_100mil_lock	CON2			Standard	Standard		2		CON2_100mil_lock	2-pin power connector.  100mil pitch							?	?								
+CON2_156mil_RT	CON2			Standard	Standard		2		CON2_156mil_RT	2-pin power connector.  156mil pitch																
+CON2_16awg_power_jacketed	CON2_power_wire			Standard	Standard		2		CON2_16awg_power	Wire 16 AWG RED/BLK Wire							Lumitec	TBD								
+CON2_JST_SH-SM2	CON2			Standard	Standard		2		CON2_JST_SH-SM2	CONN HEADER SH 2POS SIDE 1MM TIN							JST	SM02B-SRSS-TB(LF)(SN)	Digi-Key	455-1802-1-ND						
+CON2_JST	CON2			Standard	Standard		2		CON_JST_2P	CONN HEADER PH TOP 2POS 2MM							JST	B2B-PH-K-S(LF)(SN)	Digi-Key	455-1704-ND						
+CON2_JST_S2P-VH	CON2			Standard	Standard		2		CON2_JST_S2P-VH	2-pin power connector.  3.96mm pitch							JST	S2P-VH(LF)(SN)	Future Electronics	S2P-VH(LF)(SN)	JST	B2PS-VH(LF)(SN)	Digi-Key	455-1648-ND		
+CON2_5x3mm_SMD_Pad	CON2			Standard (No BOM)	Standard (No BOM)		1		CON2_5x3mm_SMD_Pad																	
+CON2_JST_ZR-SM4	CON2-Mountingpads			Standard	Standard		2		CON2_JST_ZR-SM4	"2 Positions Header, Shrouded  0.059"" (1.50mm) Surface Mount"							JST	B2B-ZR-SM4-TF(LF)(SN)	Digi-Key	455-1681-1-ND						
+CON3_CUI_PJ-202A	CON3_CUI_PJ-202A		Power Jack right angle	Standard	Standard		3		CON_CUI-PJ-202A	3-pin Power Jack 2mm ID 5.5mm OD				24V	2.5A		CUI Inc	PJ-202A	Digi-Key	CP-202A-ND						
+CON4_100mil_FAN	CON4			Standard	Standard		4		CON4_100mil_FAN	"4 Positions Header, Friction, Special for PWM Fan"							Molex	470531000	Digi-Key	WM4330-ND	Cherng Weei	C2511-W254-(4-3)-GF(13.5)				
+CON5_JST_ZR-SM4	CON5			Standard	Standard		5		CON5_JST_ZR-SM4	"5 Positions Header, Shrouded  0.059"" (1.50mm) Surface Mount"							JST	B5B-ZR-SM4-TF(LF)(SN)	Digi-Key	455-1684-1-ND						
+CON5x2_2.54_MALE_USB	CON10-USB		CON5x2_2.54_MALE_USB	Standard	Standard		9		SM_CON5x2_2.54_MALE_USB	9 Pin 2.54mm Pitch SMD							Samtec	TSM-105-01-T-DV-002			Amphenol FCI	73398-101ALF	Mouser	649-73398-101ALF		
+CON5_2.54_VERT_TH_FEM	CON5			Standard	Standard		5		CON5_2.54_VERT_TH_FEM	5 Pin Vertical Female 0.1 Pitch							Samtec	SSQ-105-01-S-S	Digi-Key	SAM1182-05-ND						
+CON5_2.54_RT_TH_MALE	CON5			Standard	Standard		5		CON5_2.54_RT_TH_MALE	5 Pin Right Angle Male 0.1 Pitch							Sullins	PRPC005SBAN-M71RC	Digi-Key	S1111EC-05-ND	Cherng Weei	P101-R1GP-058_030-05				
+CON5_2.54_RT_SMD_MALE	CON5			Standard	Standard		5		CON5_2.54_RT_SMD_MALE	5 Pin 2.54mm Pitch Right-angle SurfaceMount header							GLOBAL CONNECTOR TECHNOLOGY 	BG301-05-A-0540-L-B	Newark	82T3353						
+CON5_2.54_RT_SMD_FEM	CON5			Standard	Standard		5		CON5_2.54_RT_SMD_FEM	5 Pin 2.54mm Pitch Right-angle SurfaceMount receptacle							GLOBAL CONNECTOR TECHNOLOGY 	BG300-05-A-L-A	Newark	82T3348						
+CON5x2_2.54_FEM_KEY-Sullins	CON10		SFH11-GPPC-D05-SM-BK	Standard	Standard		10		SM_CON5x2_2.54_FEM_KEY-Sullins	10 Pin 2.54mm Pitch SMD Female Header with Key							Sullins	SFH11-GPPC-D05-SM-BK			Sullins	SFH11-PBPC-D05-SM-BK				
+CON5x2_2.54_FEM_KEY-Samtec	CON10		SSW-105-22-G-D-VS-N	Standard	Standard		10		SM_CON5x2_2.54_FEM_KEY-Samtec	10 Pin 2.54mm Pitch SMD Female Header with Key							Samtec	SSW-105-22-G-D-VS-N								
+CON5x2_2.54_SHROUD_MALE	CON10		HTST-105-01-L-DV	Standard	Standard		10		SM_CON5x2_2.54_SHROUD_MALE	10 Pin 2.54mm Pitch SMD							Samtec	HTST-105-01-L-DV	Digi-Key	SAM8808-ND	Sullins	SBH11-NBPC-D05-SM-BK	Digi-Key	S9185-ND		
+CON6_10114830	CON6		10114830-10106LF	Standard	Standard		6		CON6_10114830-10106LF	"Connector Header Surface Mount, Right Angle 6 position 0.049"" (1.25mm)"							Amphenol ICC (FCI)	10114830-10106LF	Digi-Key	609-6042-1-ND						
+CON6_2.54_MALE_VERT	CON6			Standard	Standard		6		CON6_2.54_STAGGERED	6 Pin Vertical Connector Male 0.1 Pitch							Samtec	TSW-106-07-L-S	Digi-Key	SAM1031-06-ND	Sullins	PRPC006SAAN-RC	Digi-Key	S1011EC-06-ND		
+CON6_JST_ZR-SM4	CON6			Standard	Standard		6		CON6_JST_ZR-SM4	"6 Positions Header, Shrouded  0.059"" (1.50mm) Surface Mount"							JST	B6B-ZR-SM4-TF(LF)(SN)	Digi-Key	455-1685-1-ND						
+CON6_JST_SH-SM2	CON6			Standard	Standard		6		CON6_JST_SH-SM2	"6 Positions Header, Shrouded  1MM"" (1.50mm) Surface Mount"							JST	SM06B-SRSS-TB(LF)(SN)	Digi-Key	455-1806-1-ND						
+CON6_SAMTEC_TMM-106	CON6			Standard	Standard		6		CON_SAMTEC_6P_2MM	"6 Positions Header 2MM"" Through hole"							SAMTEC	TMM-106-01-G-S	Digi-Key	SAM1174-06-ND						
+CON6_SAMTEC_TMM-106-RA	CON6			Standard	Standard		6		CON_SAMTEC_6P_2MM_RA	"6 Positions Header 2MM"" Through hole RA"							SAMTEC	TMM-106-01-G-S-RA	Digi-Key	TMM-106-01-G-S-RA-ND						
+CON8_100mil_PTH	CON8_2ROW			Standard	Standard		8		CON8_100mil	"2 * 4 Header 0.1"""							Molex	70287-1002	Digi-Key	WM16610-ND						
+CON8_2mm_PTH	CON8_2ROW			Standard	Standard		8		CON8_2mm	CONN HEADER 8POS 2MM VERT GOLD							Molex	877580816	Digi-Key	WM18835-ND						
+CON20_Molex_57246-2071	CON20_2MP			Standard	Standard		20		CON20_SMT_FPC_MOLEX_52746-2071	20 Pin FPC 0.5MM SMD							Molex Inc	52746-2071	Digi-Key	WM7979CT-ND						
+CON_USB_TypeA_Jack_RT_TH	CON_USB4-2GND		USB Type A Jack	Standard	Standard		4		CON_USB_TypeA_Jack_RT_TH								Molex Inc	676432911	Digi-Key	WM4078-ND						
+CON_USB_TypeB_Port	CON_USB_TypeB_TH		USB Type B Port	Standard	Standard		4		CON_USB_TypeB_TH								Molex Inc	670688001	Digi-Key	WM17123-ND						
+CON_USB_TypeA_Vertical_Port	CON_USB4-4GND		USB Type A Vertical Port	Standard	Standard		4		CON_USB_TypeA_RA_VERT_TH	USB Type A Vertical Port							Molex Inc	482040001	Digi-Key	WM17532-ND						
+CON_USB_TypeA_Vert_Standard_Pinout	CON_USB4-4GND		USB Type A Vertical Port Standard pinout	Standard	Standard		4		CON_USB_TypeA_RA_VERT_TH_FCI	USB Type A Vertical Port Standard Pinout							FCI	73725-0110BLF	Digi-Key	609-1041-ND	Cherng Weei	UAF-041UGPx3-CF1108				
+CON_DB9_Receptacle_RA_TH	CON-DB9-FE-RA		DB9 Receptical RA TH	Standard	Standard		9		CON_TE-5747844-4_V	DB9 Receptacle RA TH							TE Connectivity AMP Connectors	1734354-1	Digi-Key	A35107-ND	TE Connectivity AMP Connectors	5747844-4	Digi-Key	A32117-ND		

@@ -1,0 +1,15 @@
+Part Number	Library Ref	Library Path	Comment	Component Kind	Component Type	PACKAGE	Pin Count	Footprint Path	Footprint Ref	Description	Material	Tolerance	Value	VOLTAGE	CURRENT	WATTAGE	Manufacturer 1	Manufacturer Part Number 1	Supplier 1	Supplier Part Number 1	Manufacturer 2	Manufacturer Part Number 2	Supplier 2	Supplier Part Number 2	Footprint Ref 2	Footprint Path 2
+F_0.05A_PTC_30V_1210	Fuse		0.05A PTC	Standard	Standard	1210	2		SM_PTCFUSE_1210	PTC FUSE 0.05A 30V			0.05A PTC	30V	0.05A		Littelfuse Inc	1210L005WR	Digi-Key	F2999CT-ND	TE	MICROSMD005F-2	Digi-Key	MICROSMD005FCT-ND	FLEX-CHIP_FUSE_1210	
+F_0.1A_PTC_60V_1206	Fuse		100mA PTC	Standard	Standard	1206	2		SM_PTCFUSE_1206	PTC RESET FUSE 60V 100MA 1206			100mA PTC	60V	100mA		Bel Fuse Inc.	0ZCJ0010FF2E	Digi-Key	507-1794-1-ND	Littelfuse Inc.	NANOSMDC010F-2	Digi-Key	NANOSMDC010F-2CT-ND		
+F_0.75A_PTC_30V_SM	Fuse		MF-SM075-2	Standard	Standard	2-SMD	2		SM_PTCFUSE_MF-SM	PTC RESET FUSE 30V 750MA 2SMD			0.75A	30V	0.75A		Bourns Inc.	MF-SM075-2	Digi-Key	MF-SM075CT-ND	Littelfuse Inc.	SMD075F-2	Digi-Key	SMD075F-2CT-ND		
+F_1.6A_PTC_9V_1812	Fuse		MINISMDC160F	Standard	Standard	1812	2		SM_PTCFUSE_1812(4532)	PTC RESET 1.6A HOLD			1.6A	9V	1.6A		Littelfuse	MINISMDC160F-2	Digi-Key	MINISMDC160F-2CT-ND						
+F_1.85A_PTC_30V_TH	Fuse		1.85A PTC	Standard	Standard	TH	2		FUSE_PTC_RAD_HORZ_300x100	PTC FUSE 1.85A HOLD			1.85A PTC	30V	1.85A		TE	RUEF185	Digi-Key	RUEF185-ND						
+F_2.6A_PTC_16V_1812	Fuse		MINISMDC260F/16-2	Standard	Standard	1812	2		SM_PTCFUSE_1812(4532)	PTC RESET 2.6A HOLD			2.6A	16V	5A		Littelfuse	MINISMDC260F/16-2	Digi-Key	MINISMDC260F/16-2CT-ND						
+F_3.5A_PTC_30V_STRAP	Fuse		3.5A PTC	Standard	Standard	Strap	2			POLYSWITCH STRAP 3.50A HOLD			3.5A PTC	30V	3.5A		TE	SRP350F	Digi-Key	SRP350F-ND	Bourns	MF-S350	Digi-Key	MF-S350-ND	Flex-PTC-weld-6x4-30	
+F_3AFast_32V_1206	Fuse		3A Fast	Standard	Standard	1206(3216)	2		SM/IPC/R_1206	FUSE 3A 32VAC			3A Fast	32VDC	3A		Littelfuse Inc	0437003.WR	Digi-Key	F2887CT-ND	Eaton Bussmann	TR/3216FF3-R	Digi-Key	283-2546-1-ND	Flex_R_1206(3216)	
+F_3A_PTC_15V_2920	Fuse		3A PTC	Standard	Standard	2920	2		SM/IPC/R_2920	PTC RESET 3.0A HOLD			3.0A	15V			Littelfuse Inc.	2920L300/15DR	Digi-Key	F2875CT-ND						
+F_3A_PTC_24V_2920	Fuse		3A PTC	Standard	Standard	2920	2		SM/IPC/R_2920	PTC RESET 3.0A HOLD			3.0A	24V			Bourns Inc.	MF-LSMF300/24X-2	Digi-Key	MF-LSMF300/24X-2CT-ND						
+F_5AFast_32V_1206	Fuse		5A Fast	Standard	Standard	1206(3216)	2		SM/IPC/R_1206	FUSE BRD MNT 5A 32VAC 35VDC 1206			5A_Fast	32VDC	5A		Littelfuse Inc	0437005.WR	Digi-Key	F2890TR-ND	Eaton Bussmann	TR/3216FF5-R	Digi-Key	283-2549-1-ND	Flex_R_1206(3216)	
+F_SFJ-1212	Fuse-Chem		SFJ-1212	Standard	Standard	4mmX3mm	3		Fuse-SFJ	"Chemical Fuse,  12A,  2-cell"				36V	12A		Dexerials	SFJ-1212								
+F_TCO_85C_25A	Fuse		SC85AAA	Standard	Standard	4.7x2.8mm	4		SM_TCO_Bournes_SC	MiniBreaker TCO 85C			85C	28V	25A		Bourns Inc.	SC85AAA	Digi-Key	SC85AAACT-ND						
+F_TCO_210C_60V_500uR	Fuse		3-119-589	Standard	Standard	6.6x8.8mm	2		SM_TCO_RTS	TCO W/500uR SHUNT 210C			210C 500uR	60VDC	60A		Schurter Inc.	3-119-589	Mouser	693-3-119-589						

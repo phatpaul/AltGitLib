@@ -1,0 +1,9 @@
+Part Number	Library Ref	Library Path	Comment	Component Kind	Component Type	PACKAGE	Pin Count	Footprint Path	Footprint Ref	Description	Material	Tolerance	Value	VOLTAGE	CURRENT	WATTAGE	Manufacturer 1	Manufacturer Part Number 1	Supplier 1	Supplier Part Number 1	Manufacturer 2	Manufacturer Part Number 2	Supplier 2	Supplier Part Number 2	Footprint Ref 2	Footprint Path 2
+SW_DPDT_2	SW-DPDT-2		SW DPDT	Standard	Standard		8		EG2208A	Switch, DPDT, Slide, Right Angle PCB Mount							E-Swith	EG2208A	Digi-Key	EG1942-ND						
+SW_SPDT_2	SW_SPDT_1C_2NC_3NO		SW SPDT	Standard	Standard		5		TPA11CGRA204	Switch, SPDT, Momentary, Right Angle PCB Mount							TE Connectivity	TPA11CGRA204	Digi-Key	450-1373-ND						
+SW_SPST_Tact_RightAngle_SMD	SW_SPST_2C_3NO		SPST	Standard	Standard		4		SM_SW_1571407-2	SWITCH TACTILE SPST-NO Right Angle SMD				24V	0.05A		TE Connectivity	1571407-2	Digi-Key	450-1830-1-ND						
+SW_SPST_Tact_RightAngle_SMD_0.7L	SW_SPST_2C_3NO		SPST	Standard	Standard		4		SM_SW_1571300-2	SWITCH TACTILE SPST-NO Right Angle SMD				24V	0.05A		TE Connectivity	1571300-2	Digi-Key	450-2127-ND						
+SW_TactSPST_6x4x2.5mm	SW-SPST-2		Tactile Switch	Standard	Standard		2		SM_SW_TactSPST_6x4x2.5mm	"Switch, Tactile, SPST, Surface Mount, NO"							TE	FSMJMLPTR	Digi-Key	450-2132-1-ND	C&K	KSR221GLFS	Digi-Key	401-1703-1-ND		
+SW_Tactile_RightAngle_8.35mm	SW_SPST_2C_3NO		Tactile Switch	Standard	Standard		4		SW_Tactile_RightAngle_8.35mm	Switch, SPST, Right Angle, Through Hole							Panasonic Electronic Components	EVQ-PF208K	Digi-Key	P12211S-ND						
+SW_Tactile_SPST_FSMSMTR	SW-SPST-2		Tactile Switch	Standard	Standard		2		SM_SW_TactSPST_FSMSMTR	Switch, Tactile, SPST, Surface Mount, NO							TE	FSMSMTR	Digi-Key	450-1758-1-ND						
+SW_Tactile_SPST_KSC-PF-Jterm	SW-SPST-2		Tactile Switch	Standard	Standard		4		SM_TactSwitch_KSC-PF-J	Switch, Tactile, SPST, Surface Mount, NO, Pottable							C&K	KSC441J70SHLFSPF	Digi-Key	CKN11981TR-ND						

@@ -1,0 +1,11 @@
+Part Number	Library Ref	Library Path	Comment	Component Kind	Component Type	PACKAGE	Pin Count	Footprint Path	Footprint Ref	Description	Material	Tolerance	Value	VOLTAGE	CURRENT	WATTAGE	Manufacturer 1	Manufacturer Part Number 1	Supplier 1	Supplier Part Number 1	Manufacturer 2	Manufacturer Part Number 2	Supplier 2	Supplier Part Number 2	Footprint Ref 2	Footprint Path 2
+E_ANTENNA_IIFA	ANTENNA_IIFA		ANTENNA_IIFA	Standard (No BOM)	Standard (No BOM)		2		ANTENNA_IIFA	PCB antenna, 2 leads																
+NET_TIE_2_1mm	NET_TIE_2		Net Tie	Net Tie	Net Tie				NET_TIE_2_1mm																	
+SPARKGAP	SPARKGAP			Standard (No BOM)	Standard (No BOM)		1		Flex-Sparkgap																	
+TP_1MMX1MM_PAD	TP		Test Point	Standard (No BOM)	Standard (No BOM)		1		1MMX1MM_PAD_NoPaste	Test Point																
+TP_2.2MMHOLE	TP		Test Point	Standard (No BOM)	Standard (No BOM)		1		2.2MMHOLE	Test Point																
+TP_2.5MMX3MM_PAD	TP		Test Point	Standard (No BOM)	Standard (No BOM)		1		2.5MMX3MM_PAD	Test Point																
+TP_3.2MMHOLE	TP		Test Point	Standard (No BOM)	Standard (No BOM)		1		3.2MMHOLE	Test Point																
+TP_6MMX4MM_PAD	TP		Test Point	Standard (No BOM)	Standard (No BOM)		1		6MMX4MM_PAD	Test Point																
+TP_8.5MMPADX3.5MMHOLE	TP		Test Point	Standard (No BOM)	Standard (No BOM)		1		8.5MMPADX3.5MMHOLE	Test Point																
+TP_Flex-tp-65	TP		Test Point	Standard (No BOM)	Standard (No BOM)		1		Flex-tp-65	Test Point																

@@ -1,0 +1,6 @@
+Part Number	Library Ref	Library Path	Comment	Component Kind	Component Type	PACKAGE	Pin Count	Footprint Path	Footprint Ref	Description	Material	Tolerance	Value	VOLTAGE	CURRENT	WATTAGE	Manufacturer 1	Manufacturer Part Number 1	Supplier 1	Supplier Part Number 1	Manufacturer 2	Manufacturer Part Number 2	Supplier 2	Supplier Part Number 2	Footprint Ref 2	Footprint Path 2
+TR_10k_5%_0805_3620K	THERMISTOR		10k NTC	Standard	Standard	0805(2012)	2		SM/IPC/R_0805	Thermistor		5%	10k b=3620K				Vishay BC	NTCS0805E4103JMT	NEWARK	98K8263	AVX	NB12K00103JBB	NEWARK	33P7666	Flex_R_0805(2012)	
+TR_10k_1%_Leaded_3435K_50mm_thin	THERMISTOR		10k NTC	Standard	Standard	Radial	2		CON2-SMT-5x1	"Thermistor, 50mm Leads, thin"		1%	10k b=3435K				Semitec	103JT-050	Mouser	954-103JT-050						
+TR_10k_2.2%_Leaded_TH_3984K	THERMISTOR		10k NTC	Standard	Standard	Radial	2		RT_BEAD_TH_1inch	"Thermistor, 10k, Leaded"		2.20%	10k b=3984K				Vishay BC	NTCLE203E3103SB0	Digi-Key	BC2446-ND						
+TR_10k_5%_Leaded_3435K	THERMISTOR		10k NTC	Standard	Standard	Radial	2		CON2-SMT-5x1	Thermistor		5%	10k b=3435K				Vishay BC	NTCLE413E2103F520L	Digi-Key	BC2646-ND	Mitsubishi	BN35-3H103				
+TR_100k_1%_0402_4250K	THERMISTOR		100k NTC	Standard	Standard	0402(1005)	2		SM/IPC/R_0402	NTC THERMISTOR 100K OHM 1% 0402 		1%	100k b=4250K				Murata Electronics North America	NCP15WF104F03RC	Digi-Key	490-4803-1-ND						
