@@ -1,0 +1,17 @@
+Part Number	Library Ref	Library Path	Comment	Component Kind	Component Type	PACKAGE	Pin Count	Footprint Path	Footprint Ref	Description	Material	Tolerance	Value	VOLTAGE	CURRENT	WATTAGE	Manufacturer 1	Manufacturer Part Number 1	Supplier 1	Supplier Part Number 1	Manufacturer 2	Manufacturer Part Number 2	Supplier 2	Supplier Part Number 2	Footprint Ref 2	Footprint Path 2
+R_1_5%_8UP_1506_CONVEX	R_8up_Array		1	Standard	Standard	1506	16		SM_R_ARRAY_8UP_1506_CONVEX	RES ARRAY 8 RES 1 OHM 1506		5%	1			62.5mW	Panasonic Electronic Components	EXB-2HV1R0JV	Digi-Key	Y11R0CT-ND						
+R_4.7_5%_4UP_1206-convex	R_4up_Array		4.7R	Standard	Standard	4up-1206-convex	8		SM_R-4up-1206-convex	RES ARRAY 4 RES 4.7 OHM 1206		5%	4.7R			62.5mW	Panasonic Electronic Components	EXB-38V4R7JV	Digi-Key	Y94R7CT-ND						
+R_5.1_5%_5W_AXIAL	R		5.1R	Standard	Standard	AXIAL	2		R_SQP500	5W Power Resistor		5%	5.1R			5W	Yageo	SQP500JB-5R1	Digi-Key	5.1W-5-ND						
+R_10_5%_5W_AXIAL	R		10R	Standard	Standard	AXIAL	2		R_SQP500	5W Power Resistor		5%	10R			5W	Yageo	SQP500JB-10R	Digi-Key	10W-5-ND						
+R_10_5%_10W_AXIAL	R		10R	Standard	Standard	AXIAL	2		R_SQP10	10W Power Resistor		5%	10R			10W	Yageo	SQP10AJB-10R	Digi-Key	10W-10-ND						
+R_49.9_1%_4UP_1206-convex	R_4up_Array		49.9R	Standard	Standard	4up-1206-convex	8		SM_R-4up-1206-convex	RES ARRAY 4 RES 49.9 OHM 1206		1%	49.9			62.5mW	Bourns Inc.	CAY16-49R9F4LF	Digi-Key	CAY16-49R9F4LFCT-ND	Vishay Dale	CRA06E08349R9FTA	Digi-Key	CRA6E849.9ACT-ND		
+R_470_5%_4UP_1206-convex	R_4up_Array		470R	Standard	Standard	4up-1206-convex	8		SM_R-4up-1206-convex	RES ARRAY 4 RES 470 OHM 1206		5%	470R			62.5mW	Panasonic Electronic Components	EXB-38V471JV	Digi-Key	Y9471CT-ND						
+R_1k_5%_2UP_0606-convex	R_2up_Array		1k	Standard	Standard	2up-0606-convex	8		SM_R-2up-0606-convex	RES ARRAY 2 RES 1K OHM 0606		5%	1k			62.5mW	Panasonic Electronic Components	EXB-34V102JV	Digi-Key	Y8102CT-ND						
+R_4.7k_5%_4UP_1206-convex	R_4up		4.7k	Standard	Standard	1206(3216) Convex	8		SM_R-4up-1206	Resistor		5%	4.7k			62.5mW	Panasonic Electronic Components	EXB-38V472JV	Digi-Key	Y9472CT-ND						
+R_4.7k_5%_8UP_2506_CONCAVE	R_8up_Array		4.7k	Standard	Standard	2506	16		SM_R_ARRAY_8UP_2506_CONCAVE	RES ARRAY 8 RES 4.7K OHM 2506 		5%	4.7k			62.5mW	CTS Resistor Products	742C163472JP 	Digi-Key	742C163472JPTR-ND 						
+R_10k_5%_2UP_0606-convex	R_2up_Array		10k	Standard	Standard	2up-0606-convex	8		SM_R-2up-0606-convex	RES ARRAY 2 RES 10K OHM 0606		5%	10k			62.5mW	Panasonic Electronic Components	EXB-34V103JV	Digi-Key	Y8103CT-ND						
+R_10k_5%_4UP_1206-convex	R_4up		10k	Standard	Standard	1206(3216) Convex	8		SM_R-4up-1206	Resistor		5%	10k			62.5mW	Panasonic Electronic Components	EXB-38V103JV	Digi-Key	Y9103CT-ND						
+R_10k_1%_4UP_1206-convex	R_4up_Array		10k	Standard	Standard	4up-1206-convex	8		SM_R-4up-1206-convex	RES ARRAY 4 RES 10K OHM 1206		1%	10k			62.5mW	Bourns Inc.	CAY16-1002F4LF	Digi-Key	CAY16-1002F4LFCT-ND						
+R_56k_5%_4UP_1206-convex	R_4up_Array		56k	Standard	Standard	4up-1206-convex	8		SM_R-4up-1206-convex	RES ARRAY 4 RES 56K OHM 1206		5%	56k			62.5mW	Panasonic	EXB-38V563JV	Digi-Key	Y9563CT-ND	Yageo	YC164-JR-0756KL	Digi-Key	YC164J-56KCT-ND		
+R_1M_5%_4UP_1206-convex	R_4up_Array		1M	Standard	Standard	4up-1206-convex	4		SM_R-4up-1206-convex_HD	RES ARRAY 4 RES 1M OHM 1206		5%	1M			62.5mW	Panasonic	EXB-38V105JV	Digi-Key	Y9105CT-ND						
+R_1M_5%_8UP_1506_CONVEX	R_8up_Array		1M	Standard	Standard	1506	16		SM_R_ARRAY_8UP_1506_CONVEX	RES ARRAY 8 RES 1M OHM 1506		5%	1M			62.5mW	Panasonic Electronic Components	EXB-2HV105JV	Digi-Key	Y1105CT-ND						

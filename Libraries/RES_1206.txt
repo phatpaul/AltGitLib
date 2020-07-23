@@ -1,0 +1,23 @@
+Part Number	Library Ref	Library Path	Comment	Component Kind	Component Type	PACKAGE	Pin Count	Footprint Path	Footprint Ref	Description	Material	Tolerance	Value	VOLTAGE	CURRENT	WATTAGE	Manufacturer 1	Manufacturer Part Number 1	Supplier 1	Supplier Part Number 1	Manufacturer 2	Manufacturer Part Number 2	Supplier 2	Supplier Part Number 2	Footprint Ref 2	Footprint Path 2
+R_0R_Jumper_1206	R		0R	Standard	Standard	1206(3216)	2		SM/IPC/R_1206	Resistor		None	0R				Yageo	RC1206JR-070RL	Digi-Key	311-0.0ERCT-ND	Panasonic	ERJ-8GEY0R00V	Digi-Key	P0.0ECT-ND	Flex_R_1206(3216)	
+R_R002_5%_1206	R		R002	Standard	Standard	1206(3216)	2		SM/IPC/R_1206	Resistor		5%	R002		22A	1W	Rohm	PMR18EZPJV2L0	Digi-Key	RHM.002AMCT-ND	Ohmite	LVT12R0020HER	Digi-Key	LVT12R0020HERCT-ND	Flex_R_1206(3216)	
+R_R005_1%_1206	R		R005	Standard	Standard	1206(3216)	2		SM/IPC/R_1206	Resistor		1%	R005		14A	1W	Rohm	PMR18EZPFU5L00	Digi-Key	RHM.005ALCT-ND	Ohmite	MCS1632R005FER	Digi-Key	MCS1632R005FERCT-ND	Flex_R_1206(3216)	
+R_R007_1%_1206	R		R007	Standard	Standard	1206(3216)	2		SM/IPC/R_1206	RES 0.007 OHM 2% 3/4W 1206		2%	R007			3/4W	Susumu	KRL1632E-M-R007-G-T5	Digi-Key	408-1567-1-ND						
+R_R010_1%_1206	R		R010	Standard	Standard	1206(3216)	2		SM/IPC/R_1206	Resistor		1%	R010			1/2W	Stackpole Electronics	CSR1206FT10L0	Digi-Key	CSR1206FT10L0CT-ND						
+R_R010_5%_1206	R		R010	Standard	Standard	1206(3216)	2		SM/IPC/R_1206	Resistor		5%	R010			1/2W	TE Connectivity	RLP73V2BR010JTD	Digi-Key	A109818TR-ND					Flex_R_1206(3216)	
+R_R018_1%_1206	R		R018	Standard	Standard	1206(3216)	2		SM/IPC/R_1206	Resistor		1%	R018			1/2W	TE Connectivity	2176055-7	Digi-Key	A109627TR-ND						
+R_R025_1%_1206	R		R025	Standard	Standard	1206(3216)	2		SM/IPC/R_1206	Resistor		1%	R025			1/4W	Vishay /Dale	WSL1206R0250FEA	Digi-Key	311-.025LWCT-ND	Vishay Dale	RL1206FR-070R025L			Flex_R_1206(3216)	
+R_R043_1%_1206	R		R043	Standard	Standard	1206(3216)	2		SM/IPC/R_1206	Resistor		1%	R043			1/2W	TE Connectivity	1-2176055-6	Digi-Key	A109636CT-ND	Rohm	UCR18EVHFSR043	Digi-Key	RHM1316CT-ND	Flex_R_1206(3216)	
+R_R050_1%_1206	R		R050	Standard	Standard	1206(3216)	2		SM/IPC/R_1206	Resistor		1%	R050			1/2W	Yageo	PF1206FKM7W0R05Z	Digi-Key	311-0.05NVTR-ND					Flex_R_1206(3216)	
+R_R056_1%_1206	R		R056	Standard	Standard	1206(3216)	2		SM/IPC/R_1206	Resistor		1%	R056			1W	Panasonic Electronic Components	ERJ-8BWFR056V	Digi-Key	P.056AUCT-ND						
+R_R100_1%_1206	R		R100	Standard	Standard	1206(3216)	2		SM/IPC/R_1206	Resistor		1%	R100			1/2W	Stackpole Electronics	CSR1206FTR100 	Digi-Key	CSR1206FTR100CT-ND						
+R_R180_1%_1206	R		R180	Standard	Standard	1206(3216)	2		SM/IPC/R_1206	RES 0.18 OHM 1% 1/2W 1206		1%	R180			1/2W	Susumu	RL1632R-R180-F	Digi-Key	RL16R.18FCT-ND	Stackpole Electronics Inc.	CSR1206FTR180	Digi-Key			
+R_R200_1%_1206	R		R200	Standard	Standard	1206(3216)	2		SM/IPC/R_1206	RES 0.2 OHM 1% 1/2W 1206		1%	R200			1/2W	Stackpole Electronics	CSR1206FKR200	Digi-Key	CSR1206FKR200CT-ND						
+R_R300_1%_1206	R		R300	Standard	Standard	1206(3216)	2		SM/IPC/R_1206	RES 0.3 OHM 1% 1/3W 1206		1%	R300			1/2W	Samsung Electro-Mechanics	RUT3216FR300CS	Digi-Key	1276-6178-1-ND						
+R_R360_1%_1206	R		360m	Standard	Standard	1206(3216)	2		SM/IPC/R_1206	RES SMD 0.36 OHM 1% 1/4W 1206		1%	0.36			1/2W	Susumu	RL1632R-R360-F	Digi-Key	RL16R.36FCT-ND	Panasonic	ERJ-8BQFR36V	Digi-Key	P17628CT-ND		
+R_1R_5%_1206	R		1R	Standard	Standard	1206(3216)	2		SM/IPC/R_1206	RES SMD 1 OHM 5% 1/4W 1206		5%	1R				Vishay /Dale	CRCW12061R00JNEA	Digi-Key	541-1.0ECT-ND	Panasonic	ERJ-8GEYJ1R0V	Digi-Key	P1.0ECT-ND	Flex_R_1206(3216)	
+R_10R_1%_1206	R		10R	Standard	Standard	1206(3216)	2		SM/IPC/R_1206	RES SMD 10 OHM 1% 1/4W 1206		1%	10R				Yageo	RC1206FR-0710RL	Digi-Key	311-10.0FRCT-ND	Panasonic	ERJ-8ENF10R0V	Digi-Key	P10.0FCT-ND	Flex_R_1206(3216)	
+R_20R_1%_1206	R		20R	Standard	Standard	1206(3216)	2		SM/IPC/R_1206	RES SMD 20 OHM 1% 1/4W 1206		1%	20R				Yageo	RC1206FR-0720RL	Digi-Key	311-20.0FRCT-ND	Panasonic	ERJ-8ENF20R0V	Digi-Key	P20.0FCT-ND	Flex_R_1206(3216)	
+R_1k_1%_1206	R		1k	Standard	Standard	1206(3216)	2		SM/IPC/R_1206	RES SMD 1K OHM 1% 1/4W 1206		1%	1k			0.25W	Yageo	RC1206FR-071KP	Digi-Key	YAG1338CT-ND						
+R_1.5k_1%_1206	R		1.5k	Standard	Standard	1206(3216)	2		SM/IPC/R_1206	RES SMD 1.5K OHM 1% 1/4W 1206		1%	1.5k			0.25W	Yageo	RC1206FR-071K5L	Digi-Key	311-1.50KFRCT-ND						
+R_100k_5%_1206	R		100k	Standard	Standard	1206(3216)	2		SM/IPC/R_1206	RES SMD 100K OHM 5% 1/4W 1206		5%	100k				Yageo	RC1206JR-07100KL	Digi-Key	311-100KERCT-ND	Panasonic	ERJ-8GEYJ104V	Digi-Key	P100KECT-ND	Flex_R_1206(3216)	
